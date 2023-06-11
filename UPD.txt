@@ -1,0 +1,9 @@
+Press ctrl-c to copy and open it in the browser - Нажмите ctrl-c, чтобы скопировать и открыть его в браузере.
+
+Select the key... - Выберите ключ...
+
+You have entered the script and are advised to import using the Share string, although you can continue to import as well. - Вы ввели сценарий, и вам рекомендуется импортировать его с помощью строки общего доступа, хотя вы также можете продолжить импорт.
+
+Here you can manage the script selector is open, and its priority. - Здесь вы можете управлять открытым селектором скрипта и его приоритетом.
+
+Team: - Команда:
